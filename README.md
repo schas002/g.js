@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-$ npm install schas002/g.lib
+$ npm install schas002/g.js
 ```
 
 ## Usage
@@ -25,6 +25,11 @@ let g=require('g.lib')
 The below tree lists the relation of function conversions. Leaves in the tree represent those that convert to clear JavaScript, while branches represent those that convert into other functions in g.js.
 
 * * *
+
+- `VERSION`, `VER`, `_V`: returns the g.js version
+- `c(x)`: `cl(x)`
+	- `cl(x)`: `console.log(x)`
+- `o(x)`, `p(x)`: `cl(x)`
 
 * * *
 

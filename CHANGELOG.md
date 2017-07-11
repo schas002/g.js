@@ -11,6 +11,10 @@ and this project adheres to version 2.0.0 of [Semantic Versioning](http://semver
 
 ## [Unreleased][1]
 
+### Added
++ `VERSION`, for getting the current g.js version, and aliases to it: `VER`, `_V`.
++ `cl(x)`, for `console.log(x)`, and aliases to it: `c(x)`, `o(x)`, `p(x)`.
+
 * * *
 
 <small>

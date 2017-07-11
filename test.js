@@ -1,3 +1,3 @@
 const test = require('ava').test;
 
-test.todo('nothing to feature yet');
+test.todo('cl() tests (I have no idea how to verify console output)');
